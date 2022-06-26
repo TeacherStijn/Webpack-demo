@@ -1,0 +1,7 @@
+// Globale handleiding te vinden op:
+// https://webpack.js.org/guides/getting-started/
+
+/* Commando's om te draaien: */
+
+npm install
+npx webpack
